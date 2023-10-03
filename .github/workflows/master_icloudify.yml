@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'icloudify'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FF6D17491D04A1B8FA7B7B6C13BD79B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9A6CD4078C443E28EB3C87B57CDF909 }}
           package: .
